@@ -21,6 +21,9 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
+    "experiments": {
+      "baseUrl": "/habit-app"
+    },
     "plugins": [
       "expo-font",
       "expo-splash-screen"
